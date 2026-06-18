@@ -12,4 +12,4 @@ Standalone static privacy policy and terms page for AI Camera.
 
 Open `index.html` directly in a browser, or serve this directory from any static hosting provider.
 
-The contact email is currently the placeholder `privacy@example.com`. Replace it before public release.
+The contact email is `chenlingya109@gmail.com`.
